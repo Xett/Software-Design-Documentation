@@ -78,6 +78,10 @@ Software design description of the *product name* system analyses how the system
 
 ### 4.2 SDD identification
 ### 4.3 Design stakeholders and their concerns
+*Who are the stakeholders, and what are their concerns?*
+
+*What concerns could be associated with the project?*
+
 ### 4.4 Design views
 ### 4.5 Design viewpoints
 ### 4.6 Design elements
