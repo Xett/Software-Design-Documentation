@@ -141,6 +141,10 @@ Design overlay usually used to add information to the existing views. This conce
 *How is the program designed? Don't go into detail, just explain the higher level concepts.*
 
 ### 4.9 Design Languages
+In this document Unified Modeling Language (UML) will be used as the modeling language for the diagrams. The modeling language is used for emphasising the static structure and dynamic behaviour of the system.
+
+*Are there any other languages that will be used to explain the design?*
+
 ## 5. Design Viewpoints
 ### 5.1 Introduction
 ### 5.2 Context Viewpoints
