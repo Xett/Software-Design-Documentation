@@ -124,6 +124,8 @@ It describes the sequence of actions and how, why, where and at what level actio
 It describes the internal behaviour of the system. System dynamics include modes, states, transitions and reactions to events. It gives information step by step about the system operation. It includes state machine diagram which defines conditions, states, transitions and relationships between them.
 
 ### 4.6 Design Elements
+Any item which appears in a design view is named as a design element. It may be one or some of these subcases; design entity, design relationship, design attribute and design constraints. All design elements are defined with subcases under their corresponding viewpoint in section 5 of the software design description.
+
 #### 4.6.1 Design Entities
 #### 4.6.2 Design Attributes
 ##### 4.6.2.1 Name Attributes
