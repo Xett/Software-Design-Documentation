@@ -66,6 +66,12 @@ The very first influence on software desing process is the *product name* SRS do
 
 Furthermore, the SDD will guide us all the way through the system. According to this document or the first phase some requirements can be added or removed from the software requirements. Consequently, requirements of the stakeholders can be met more precisely after each sprint of our development process.
 #### 3.2.3 Design verification and design role in validation
+Verification is the process that we will use to test the *product name* system, to determine whether it meets a set of design specifications. In this process, we will look at the SRS and SDD documents for correctness of specifications. We will control that whether all functional and nonfunctional requirements are correctly implemented according to the requirements of the SRS and SDD documents. Furthermore, we will control that whether the design viewpoints of the final *product name* system are met in the viewpoints part of the SDD document.
+
+Validation is the process that the stakeholders and developers decide if the *product name* system is consistent with the main goal, *which is...*.
+
+After the complete implementation of the system, the testing process will be handled with SDD influenced test plans and cases.
+
 ## 4. Design description information content
 ### 4.1 Introduction
 ### 4.2 SDD identification
