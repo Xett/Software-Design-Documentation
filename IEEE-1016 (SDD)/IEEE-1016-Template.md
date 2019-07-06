@@ -1,0 +1,142 @@
+# *Template Title*
+## 1. Overview
+### 1.1 Scope
+*The developed product is...*
+
+*How is the developed product used?*
+
+*What is the objective of the developed product?*
+
+Each design concern of the stakeholders are topic of at least one design view and these design views are descried with corresponding design elements and modeled with related UML diagrams. The document is prepared in IEEE 1016-2009 standards.
+### 1.2 Purpose
+*The purpose of this document is...*
+
+The purpose of this document is to provide a description of the design of the software product to allow for software design to proceed with a perceptive of the design that is to be structured and how the process of it develops. The topics of, general description of design elements and their interactions, how the system will be structured, data & functional structure are to e further discussed in order to help producing test cases, and help in maintenance services, and also satisfy requirements, design details indicated in the SRS document.
+### 1.3 Intended Audience
+*The intended audience of the software design description is...*
+
+This standard is intended for technical and managerial stakeholders who prepare and use SDDs. It guides a designer in the selection, organisation, and presentation of design information. For an organisation developing its own SDD practices, the use of this standard can help to ensure that design descriptions are complete, concise, consistent, interchangeable, appropriate for recording design experiences and lessons learned, well organised, and easy to communicate.
+### 1.4 References
+[1] IEEE. IEEE Std 1016-2009 IEEE Standard for Information Technology - System Design - Software Design Descriptions. IEEE Computer Society, 2009
+
+[2] StarUML 5.0 User Guide. (2005). Retrived from http://staruml.sourcefource.net/docs/user-guide%20(en)/toc.html
+## 2. Definitions, Acronyms and Abbreviations
+All the definitions, acronyms and abbreviations which are used in this document are described in the following table.
+
+| Name | Definition |
+| --- | -------- |
+| Block Diagram | A diagram showing in schematic form the general arrangement of the parts or components of a complex system or process. |
+| Class Diagram | A type of static structure diagram in UML that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among the classes |
+| IDE | Integrated Development Environment |
+| IEEE Standard | International Electric Electronic Engineering Standards 1016-2009 |
+| PC | Personal Computer |
+| SDD | Software Design Description |
+| SDK | Software Development Kit |
+| Sprint | A set of period of time during which specific work has to be completed and made ready for review |
+| SRS | Software Requirement Specifications |
+| Stakeholders | Any person with an interest in the system who is not a developer of the system |
+| StarUML | Design tool of diagrams |
+| State Transition Diagram | A type of static structure in UML that describes the transition of the system functions |
+| USB | Universal Serial Bus |
+| Use Case Diagram | A type of static structure diagram in UML that describes user's interaction with the system |
+| User | Person who wants to use the system |
+| User Interface | An interface that our system contact with the user of the system. It gets all needed information for its running, from user to our system |
+## 3. Conceptual model for software design descriptions
+This section includes basic *product name* System terms, concepts and context of SDD in which the documentation is prepared. The purpose of conceptual model is to give a better understanding of system terminology and software life cycle that the system resides on. The conceptual model also gives information about stakeholders who will use SDD and how the SDD will be used.
+
+### 3.1 Software design in context
+*What is the design paradigm of the product?*
+
+*How/What will the product be implemented using?*
+
+*What will the product try to give?* The system will try to give the most accurate result in a most applicable, proper and correct time with its both software and hardware parts; so it can respond to users' wants correctly and quickly. *How else should it correctly respond?* The speed of software part of the system depends on the computational operations according to processor(s) of computer that runs our system.
+
+*What is the planned application of the product?*
+
+### 3.2 Software design descriptions within the life cycle
+This software will be created following IEEE standards. The primary milestones of this system are requirements analysis, design description analysis, implementation and finally verification and validation.
+
+#### 3.2.1 Influences on SDD preparation
+The very first influence on software desing process is the *product name* SRS document. In SDD, we considered the product perspective, functional/nonfunctional requirements and interface requirements that were included in the SRS. Given specifications and the possible new requests from the stakeholders will specify the design process of this sytem.
+
+#### 3.2.2 Influences on software life cycle products
+*What is the order the product should be designed in?*
+
+*How will changes (such as stakeholder opinions or test) during the design process be implemented into this design?*
+
+#### 3.2.3 Design verification and design role in validation
+## 4. Design description information content
+### 4.1 Introduction
+### 4.2 SDD identification
+### 4.3 Design stakeholders and their concerns
+### 4.4 Design views
+### 4.5 Design viewpoints
+### 4.6 Design elements
+#### 4.6.1 Design entities
+#### 4.6.2 Design attributes
+##### 4.6.2.1 Name attributes
+##### 4.6.2.2 Type attributes
+##### 4.6.2.3 Purpose attribute
+##### 4.6.2.4 Author attribute
+#### 4.6.3 Design relationships
+#### 4.6.4 Design constraints
+### 4.7 Design overlays
+### 4.8 Design rationale
+### 4.9 Design languages
+## 5. Design viewpoints
+### 5.1 Introduction
+### 5.2 Context viewpoints
+#### 5.2.1 Design concerns
+#### 5.2.2 Design elements
+#### 5.2.3 Example languages
+### 5.3 Composition viewpoint
+#### 5.3.1 Design concerns
+#### 5.3.2 Design elements
+##### 5.3.2.1 Function attribute
+##### 5.3.2.2 Subordinates attribute
+#### 5.3.3 Example languages
+### 5.4 Logical viewpoint
+#### 5.4.1 Design concerns
+#### 5.4.2 Design elements
+#### 5.4.3 Example languages
+### 5.5 Dependency viewpoint
+#### 5.5.1 Design concerns
+#### 5.5.2 Design elements
+##### 5.5.2.1 Dependencies attribute
+#### 5.5.3 Example languages
+### 5.6 Information viewpoint
+#### 5.6.1 Design concerns
+#### 5.6.2 Design elements
+##### 5.6.2.1 Data attribute
+#### 5.6.3 Example languages
+### 5.7 Patterns use viewpoint
+#### 5.7.1 Design concerns
+#### 5.7.2 Design elements
+#### 5.7.3 Example languages
+### 5.8 Interface viewpoint
+#### 5.8.1 Design concerns
+#### 5.8.2 Design elements
+##### 5.8.2.1 Interface attribute
+#### 5.8.3 Example languages
+### 5.9 Structure viewpoint
+#### 5.9.1 Design concerns
+#### 5.9.2 Design elements
+#### 5.9.3 Example languages
+### 5.10 Interaction viewpoint
+#### 5.10.1 Design concerns
+#### 5.10.2 Design elements
+#### 5.10.3 Examples
+### 5.11 State dynamics viewpoints
+#### 5.11.1 Design concerns
+#### 5.11.2 Design elements
+#### 5.11.3 Example languages
+### 5.12 Algorithm viewpoint
+#### 5.12.1 Design concerns
+#### 5.12.2 Design elements
+#### 5.12.3 Processing attribute
+#### 5.12.4 Examples
+### 5.13 Resource viewpoint
+#### 5.13.1 Design concerns
+#### 5.13.2 Design elements
+##### 5.13.2.1 Resources attribute
+#### 5.13.3 Examples
