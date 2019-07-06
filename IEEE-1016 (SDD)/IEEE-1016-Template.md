@@ -150,6 +150,8 @@ In this document Unified Modeling Language (UML) will be used as the modeling la
 This section provides several main design viewpoints of *product name* with their corresponding design concerns and appropriate design languages. Respectively, context, composition, logical, dependency, information, patterns, interface structure and interaction viewpoints are defined in the following subsections. Short descriptions relating a minimal set of design entities, design relationships design entity attribute, and design constraints are provided for each viewpoint.
 
 ### 5.2 Context Viewpoints
+The context viewpoints of *product name* show the functions provided by a design subject with reference to an explicit context. The services are the functions, which describes the relationships, dependencies, and interactions between the system and its environment like users and other stakeholders.
+
 #### 5.2.1 Design Concerns
 #### 5.2.2 Design Elements
 #### 5.2.3 Example Languages
