@@ -147,6 +147,8 @@ In this document Unified Modeling Language (UML) will be used as the modeling la
 
 ## 5. Design Viewpoints
 ### 5.1 Introduction
+This section provides several main design viewpoints of *product name* with their corresponding design concerns and appropriate design languages. Respectively, context, composition, logical, dependency, information, patterns, interface structure and interaction viewpoints are defined in the following subsections. Short descriptions relating a minimal set of design entities, design relationships design entity attribute, and design constraints are provided for each viewpoint.
+
 ### 5.2 Context Viewpoints
 #### 5.2.1 Design Concerns
 #### 5.2.2 Design Elements
