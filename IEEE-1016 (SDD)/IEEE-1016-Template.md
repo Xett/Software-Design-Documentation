@@ -127,6 +127,12 @@ It describes the internal behaviour of the system. System dynamics include modes
 Any item which appears in a design view is named as a design element. It may be one or some of these subcases; design entity, design relationship, design attribute and design constraints. All design elements are defined with subcases under their corresponding viewpoint in section 5 of the software design description.
 
 #### 4.6.1 Design Entities
+*Design entities capture key elements of a software design.*
+
+*Each design entity shall have a name (4.6.2.1), a type (4.6.2.2), and purpose (4.6.2.3).*
+
+*Examples of design entities include, but are not limited to, the following: systems, subsystems, libraries, frameworks, abstract collaboration patterns, generic templates, components, classes, data stores, modules, program units, programs, and processes.*
+
 #### 4.6.2 Design Attributes
 ##### 4.6.2.1 Name Attributes
 ##### 4.6.2.2 Type Attributes
