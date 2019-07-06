@@ -77,6 +77,14 @@ After the complete implementation of the system, the testing process will be han
 Software design description of the *product name* system analyses how the system will be designed and implemented. This section investigates these according to identification of the SDD, identified design stakeholders and design concerns, related design viewpoints, design views, overlays, rationale and languages. Furthermore, this section includes design elements which are design entities, attributes, relationships and constraints.
 
 ### 4.2 SDD identification
+*When will the product be released?* after validation and verification tests.
+
+*Who is allowed to modify the product?*
+
+*Who is allowed to distribute the product?*
+
+Scope, references, context and summary can be found under the section "Overview". Glossary can be found under the section "Definitions, Acronyms and Abbreviations".
+
 ### 4.3 Design stakeholders and their concerns
 *Who are the stakeholders, and what are their concerns?*
 
