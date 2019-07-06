@@ -64,6 +64,7 @@ The very first influence on software desing process is the *product name* SRS do
 
 *How will changes (such as stakeholder opinions or test) during the design process be implemented into this design?*
 
+Furthermore, the SDD will guide us all the way through the system. According to this document or the first phase some requirements can be added or removed from the software requirements. Consequently, requirements of the stakeholders can be met more precisely after each sprint of our development process.
 #### 3.2.3 Design verification and design role in validation
 ## 4. Design description information content
 ### 4.1 Introduction
