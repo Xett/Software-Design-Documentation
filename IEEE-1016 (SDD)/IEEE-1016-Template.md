@@ -74,6 +74,8 @@ After the complete implementation of the system, the testing process will be han
 
 ## 4. Design description information content
 ### 4.1 Introduction
+Software design description of the *product name* system analyses how the system will be designed and implemented. This section investigates these according to identification of the SDD, identified design stakeholders and design concerns, related design viewpoints, design views, overlays, rationale and languages. Furthermore, this section includes design elements which are design entities, attributes, relationships and constraints.
+
 ### 4.2 SDD identification
 ### 4.3 Design stakeholders and their concerns
 ### 4.4 Design views
