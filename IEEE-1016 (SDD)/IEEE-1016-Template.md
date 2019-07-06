@@ -94,6 +94,13 @@ Scope, references, context and summary can be found under the section "Overview"
 Design views help deisgn stakeholders about focusing on design details from a specific perspective and meeting relevant requirements. Each identified design concern must be topic of at least one design view so that SDD is complete. Each design concerns identified in the previous subsection the topic of most of the design views in this document; thus, this SDD is completed. For example, concerns about cost are topic of composition view Moreover, concerns about quality of photo are topic of logical view. In this document, context, composition, logical dependency, information, patterns use, interface, interaction and state dynamics views will be explained in section 4.5 as their corresponding viewpoints. For some views, relevant UML diagrams will be shown in order to clarification.
 
 ### 4.5 Design viewpoints
+This document describes context, composition, logical, dependency, information patterns use, interface, structure, and interaction and state dynamics viewpoints.
+
+#### 4.5.1 Context Viewpoint
+It describes the relationships dependencies and interactions between the system and its environment such as users and other interacting stakeholders. Interactions between the system and its actors are very intense. It includes use case, context and block diagrams showing the system boundary.
+
+#### 4.5.2 Composition viewpoint
+It describes how the design subject splits up into its components and which roles these components have. It can be used in estimating cost, staffing and scheduling duties of development teams. It includes deployment and component diagram.
 ### 4.6 Design elements
 #### 4.6.1 Design entities
 #### 4.6.2 Design attributes
