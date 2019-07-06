@@ -135,6 +135,8 @@ Any item which appears in a design view is named as a design element. It may be 
 #### 4.6.3 Design Relationships
 #### 4.6.4 Design Constraints
 ### 4.7 Design Overlays
+Design overlay usually used to add information to the existing views. This concept will be explained clearly when necessary in the design viewpoints section which is 5.
+
 ### 4.8 Design Rationale
 ### 4.9 Design Languages
 ## 5. Design Viewpoints
