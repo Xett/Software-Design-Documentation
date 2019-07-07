@@ -134,6 +134,12 @@ Any item which appears in a design view is named as a design element. It may be 
 *Examples of design entities include, but are not limited to, the following: systems, subsystems, libraries, frameworks, abstract collaboration patterns, generic templates, components, classes, data stores, modules, program units, programs, and processes.*
 
 #### 4.6.2 Design Attributes
+A design attribute names a characteristic or property of a design element (which may be a design entity design constraint or a design relationship) and provides a statement of fact about that design element.
+
+All design attributes declared by a design viewpoint shall be specified.
+
+*Design attributes can be thought of as questions about design elements. The answers to those questions are the values of the attributes. All the questions can be answered, but the content of the answer will depend upon the nature of the entity. The collection of answers provides a complete description of an entity. Attribute descriptions should include references and design considerations such as tradeoffs and assumptions when appropriate. In some cases, attribute descriptions may have the value none.*
+
 ##### 4.6.2.1 Name Attributes
 ##### 4.6.2.2 Type Attributes
 ##### 4.6.2.3 Purpose Attribute
