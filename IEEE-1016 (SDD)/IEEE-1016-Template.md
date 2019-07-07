@@ -260,6 +260,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *A description of the relationships of this entity with other entities. The dependencies attribute identifies the uses or requires the presence of relationship of an entity. This attribute is used to describe the nature of each interaction including such characteristics as timing and conditions for interaction. The interactions involve the initiation, order of execution, data sharing, creation, duplicating, usage, storage, or destruction of entities.*
 
 #### 5.5.3 Example Languages
+*UML component diagrams and UML package diagrams showing dependencies among subsystems (OMG [B28]).*
+
 ### 5.6 Information Viewpoint
 #### 5.6.1 Design Concerns
 #### 5.6.2 Design Elements
