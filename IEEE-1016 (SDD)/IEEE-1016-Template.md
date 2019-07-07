@@ -287,6 +287,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *The viewpoint addresses design ideas (emergent concepts) as collaboration patterns involving abstracted roles and connectors.*
 
 #### 5.7.1 Design Concerns
+*Key concerns include reuse at the level of design ideas (design patterns), architectural styles, and framework templates.*
+
 #### 5.7.2 Design Elements
 #### 5.7.3 Example Languages
 ### 5.8 Interface Viewpoint
