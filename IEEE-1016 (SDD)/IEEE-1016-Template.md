@@ -351,6 +351,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *UML composite structure diagram, UML interaction diagram (OMG [B28]).*
 
 ### 5.11 State Dynamics Viewpoints
+*Reactive systems and systems whose internal behaviour is of interest use this viewpoint.*
+
 #### 5.11.1 Design Concerns
 #### 5.11.2 Design Elements
 #### 5.11.3 Example Languages
