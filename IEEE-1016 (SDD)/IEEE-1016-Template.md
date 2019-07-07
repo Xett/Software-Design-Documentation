@@ -247,6 +247,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *The Dependency viewpoint specifies the relationships of interconnection and access among entities. These relationships include shared information, order of execution, or parameterisation of interfaces.*
 
 #### 5.5.1 Design Concerns
+*A Dependency view provides an overall picture of the design subject in order to assess the impact of requirements or design changes. It can help maintainers to isolate entities causing system failures or resource bottlenecks. It can aid in producing the system integration plan by identifying the entities that are needed by other entities and that must be developed first. This description can also be used by integration testing to aid in the production of integration test cases.*
+
 #### 5.5.2 Design Elements
 ##### 5.5.2.1 Dependencies Attribute
 #### 5.5.3 Example Languages
