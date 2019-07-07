@@ -336,6 +336,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Design constraints: interface constraints, reusability constraints, and dependency constraints.*
 
 #### 5.9.3 Example Languages
+*UML composite structure diagram, UML class diagram, and UML package diagram (OMG [B28]).*
+
 ### 5.10 Interaction Viewpoint
 #### 5.10.1 Design Concerns
 #### 5.10.2 Design Elements
