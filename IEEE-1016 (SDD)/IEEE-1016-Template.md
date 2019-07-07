@@ -348,6 +348,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Classes, methods, states, events, signals, hierarchy, concurrency, timing, and synchronisation.*
 
 #### 5.10.3 Examples
+*UML composite structure diagram, UML interaction diagram (OMG [B28]).*
+
 ### 5.11 State Dynamics Viewpoints
 #### 5.11.1 Design Concerns
 #### 5.11.2 Design Elements
