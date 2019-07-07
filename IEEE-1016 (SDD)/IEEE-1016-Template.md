@@ -269,6 +269,12 @@ The context viewpoints of *product name* show the functions provided by a design
 *Key concerns include persistent data structure, data content, data management strategies, data access schemes, and definition of metadata.*
 
 #### 5.6.2 Design Elements
+*Design entities: data items, data types and classes, data stores, and access mechanisms.*
+
+*Design relationships: association, uses implements. Data attributes, their constraints and static relationships among data entities, aggregates of attributes, and relationships.*
+
+*Design attributes: persistence and quality properties.*
+
 ##### 5.6.2.1 Data Attribute
 #### 5.6.3 Example Languages
 ### 5.7 Patterns use Viewpoint
