@@ -204,6 +204,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Any black-box type diagrams can be used to realise the Context viewpoint. Appropriate languages include Structured Analyys [e.g., IDEF0 (IEEE Std 1320.1-1998 [B18]), Structured Analysis and Design Technique (SADT)(Ross [B32]) or those of the Dearco of Gane-Sarson variety], the Cleanroom's black box diagrams, and UML use cases (OMG [B28]).*
 
 ### 5.3 Composition Viewpoint
+*The Composition viewpoint describes the way the design subject is (recursively) structured into constituent parts and establishes the roles of those parts.*
+
 #### 5.3.1 Design Concerns
 #### 5.3.2 Design Elements
 ##### 5.3.2.1 Function Attribute
