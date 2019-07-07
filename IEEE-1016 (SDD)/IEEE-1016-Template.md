@@ -229,6 +229,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *The purpose of the Logical viewpoint is to elaborate existing and designed types and their implementations as classes and interfaces with their structural static relationships. This viewpoint also uses examples of instances of types in outlining design ideas.*
 
 #### 5.4.1 Design Concerns
+*The Logical viewpoint is used to address the development and reuse of adequate abstractions and their implementations. For any implementation platform, a set of types is readily available for the domain abstractions of interest in a design subject, and a number of new types is to be designed, some of which may be considered for reuse. The main concern is the proper choice of abstractions and their expression in terms of existing types (some of which may had been specific to the design subject).*
+
 #### 5.4.2 Design Elements
 #### 5.4.3 Example Languages
 ### 5.5 Dependency Viewpoint
