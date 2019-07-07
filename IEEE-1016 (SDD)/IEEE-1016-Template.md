@@ -313,6 +313,10 @@ The context viewpoints of *product name* show the functions provided by a design
 *The attributes for identification (4.6.2.1), function (5.3.2.1), and interface (6.8.2.1) should be provided for all design entities.*
 
 ##### 5.8.2.1 Interface Attribute
+*A description of how other entities interact with this entity. The interface attribute describes the methods of interaction and the rules governing those interactions. Methods of interaction include the mechanisms for invoking or interrupting the entity, for communicating through parameters, common data areas or messages, and for direct access to internal data. The rules governing the interaction include the communications protocol, data format, acceptable values, and the meaning of each value.*
+
+*This attribute provides a description of the input ranges, the meaning of inputs and outputs, the type and format of each input or output, and output error codes. For information systems, it should include inputs, screen formats, and a complete description of the interactive language.*
+
 #### 5.8.3 Example Languages
 ### 5.9 Structure Viewpoint
 #### 5.9.1 Design Concerns
