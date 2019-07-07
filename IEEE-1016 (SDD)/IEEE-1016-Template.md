@@ -369,6 +369,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *UML state machine diagram (OMG [B28]), Harel statechart, state transition table (matrix), automata, Petri net.*
 
 ### 5.12 Algorithm Viewpoint
+*The detailed design description of operations (such as methods and functions), the internal details and logic of each design entity.*
+
 #### 5.12.1 Design Concerns
 #### 5.12.2 Design Elements
 #### 5.12.3 Processing Attribute
