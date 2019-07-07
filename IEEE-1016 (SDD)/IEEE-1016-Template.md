@@ -152,6 +152,8 @@ All design attributes declared by a design viewpoint shall be specified.
 *A description of why the element exists. The purpose attribute shall provide the rationale for the creation of the element.*
 
 ##### 4.6.2.4 Author Attribute
+*Identification of designer. The author attribute shall identify the designer of the element.*
+
 #### 4.6.3 Design Relationships
 #### 4.6.4 Design Constraints
 ### 4.7 Design Overlays
