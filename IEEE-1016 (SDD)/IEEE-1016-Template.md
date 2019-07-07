@@ -310,6 +310,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Designers, programmers, and testers often use design entities that they did not develop. These entities can be reused from earlier projects, contracted from an external source, or produced by other developers. The interface description establishes an agreement among designers, programmers, and testers about how cooperating entities will interact. Each entity interface description should contain everything another designer or programmer needs to know to develop software that interacts with that entity. A clear description of entity interfaces is essential on a multi-person development for smooth integration and ease of maintenance.*
 
 #### 5.8.2 Design Elements
+*The attributes for identification (4.6.2.1), function (5.3.2.1), and interface (6.8.2.1) should be provided for all design entities.*
+
 ##### 5.8.2.1 Interface Attribute
 #### 5.8.3 Example Languages
 ### 5.9 Structure Viewpoint
