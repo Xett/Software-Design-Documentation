@@ -232,6 +232,14 @@ The context viewpoints of *product name* show the functions provided by a design
 *The Logical viewpoint is used to address the development and reuse of adequate abstractions and their implementations. For any implementation platform, a set of types is readily available for the domain abstractions of interest in a design subject, and a number of new types is to be designed, some of which may be considered for reuse. The main concern is the proper choice of abstractions and their expression in terms of existing types (some of which may had been specific to the design subject).*
 
 #### 5.4.2 Design Elements
+*Design entities: class, interface, power type, data type, object, attribute, method, association class, template, and namespace.*
+
+*Design relationships: association, generalisation, dependency, realisation, implementation, instance of, composition, and aggregation.*
+
+*Design attributes: name, role name, visibility, cardinality, type, stereotype, redefinition, tagged value, parameter, and navigation efficiency.*
+
+*Design constraints: value constraints, relationships exclusivity constraints navigability, generalisation sets, multiplicity, derivation, changeability, initial value qualifier, ordering, static, pre-condition, post-condition, and generalisation set constraints.*
+
 #### 5.4.3 Example Languages
 ### 5.5 Dependency Viewpoint
 #### 5.5.1 Design Concerns
