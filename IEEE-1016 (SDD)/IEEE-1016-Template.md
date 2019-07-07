@@ -321,6 +321,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Interface definition languages (IDL), UML component diagram (OMG [B28]). In case of user interfaces the Interface view should include screen formats valid inputs, and resulting outputs. For data-driven entities, a data dictionary should be used to describe the data characteristics. Those entities that are highly visible to a user and involve the details of how the customer should perceive the system should include a functional model, scenarios for use, detailed feature sets and the interaction language.*
 
 ### 5.9 Structure Viewpoint
+*The Structure viewpoint is used to document the internal constituents and organisation of the design subject in terms of like elements (recursively).*
+
 #### 5.9.1 Design Concerns
 #### 5.9.2 Design Elements
 #### 5.9.3 Example Languages
