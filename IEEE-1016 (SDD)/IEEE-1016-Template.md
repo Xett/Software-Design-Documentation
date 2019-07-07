@@ -302,6 +302,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *UML composite structure diagram and a combination of the UML class diagram and the UML package diagram (OMG [B28]).*
 
 ### 5.8 Interface Viewpoint
+*The interface viewpoint proides information designers, programmers, and testers the means to know how to correctly use the services provided by a design subject. This description includes the details of external and internal interfaces not provided in the SRS. This viewpoint consists of a set of interface specifications for each entity.*
+
 #### 5.8.1 Design Concerns
 #### 5.8.2 Design Elements
 ##### 5.8.2.1 Interface Attribute
