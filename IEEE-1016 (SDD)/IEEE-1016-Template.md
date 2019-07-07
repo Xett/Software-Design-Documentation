@@ -357,6 +357,14 @@ The context viewpoints of *product name* show the functions provided by a design
 *System dynamics including modes, states, transitions, and reactions to events.*
 
 #### 5.11.2 Design Elements
+*Design entities: event, condition, state, transition, activity, composite state, critical region, and trigger.*
+
+*Design relationships: part-of, internal, effect, entry, exit, and attached to.*
+
+*Design attributes: name, completion, active, initial, and final.*
+
+*Design constraints: guard conditions, concurrency, synchronisation, state invariant, transition constraint, and protocol.*
+
 #### 5.11.3 Example Languages
 ### 5.12 Algorithm Viewpoint
 #### 5.12.1 Design Concerns
