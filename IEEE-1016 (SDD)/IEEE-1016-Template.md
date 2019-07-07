@@ -339,6 +339,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *UML composite structure diagram, UML class diagram, and UML package diagram (OMG [B28]).*
 
 ### 5.10 Interaction Viewpoint
+*The Interaction viewpoint defines strategies for interaction among entities, regarding why, where, how, and at what level actions occur.*
+
 #### 5.10.1 Design Concerns
 #### 5.10.2 Design Elements
 #### 5.10.3 Examples
