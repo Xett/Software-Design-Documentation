@@ -162,6 +162,12 @@ All design attributes declared by a design viewpoint shall be specified.
 *There are no design relationships defined in this standard. Most design techniques use design relationships extensively. Normally these design relationships will be defined as part of a design viewpoint. For example, structured design methods are built around design relationships including input (datum I is an input to process A), output (datum O is an output of process A) and decompose (process A decompose into processes A1, A2, and A3) relationships. Object-oriented design methods use design relationships including encapsulation, generalisation, specialisation, composition, aggregation, realisation, and instantiation.*
 
 #### 4.6.4 Design Constraints
+*A design constraint is an element of a design view that names a rule or restriction imposed by one design element (the source) upon another design element (the target), which may be a design entity, design attribute, or design relationship.*
+
+*Each design constraint in an SDD shall have a name (4.6.2.1) and a type (4.6.2.2). A design constraint shall identify its source and target design entities.*
+
+*There are no design constraints predefined in this standard. Many design techniques introduce design constraints.*
+
 ### 4.7 Design Overlays
 Design overlay usually used to add information to the existing views. This concept will be explained clearly when necessary in the design viewpoints section which is 5.
 
