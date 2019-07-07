@@ -290,6 +290,14 @@ The context viewpoints of *product name* show the functions provided by a design
 *Key concerns include reuse at the level of design ideas (design patterns), architectural styles, and framework templates.*
 
 #### 5.7.2 Design Elements
+*Design entities: collaboration, class, connector, role, framework template, and pattern.*
+
+*Design relationships: association, collaboration use, and connector.*
+
+*Design attributes: name.*
+
+*Design constraints: collaboration constraints.*
+
 #### 5.7.3 Example Languages
 ### 5.8 Interface Viewpoint
 #### 5.8.1 Design Concerns
