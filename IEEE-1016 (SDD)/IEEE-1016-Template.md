@@ -318,6 +318,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *This attribute provides a description of the input ranges, the meaning of inputs and outputs, the type and format of each input or output, and output error codes. For information systems, it should include inputs, screen formats, and a complete description of the interactive language.*
 
 #### 5.8.3 Example Languages
+*Interface definition languages (IDL), UML component diagram (OMG [B28]). In case of user interfaces the Interface view should include screen formats valid inputs, and resulting outputs. For data-driven entities, a data dictionary should be used to describe the data characteristics. Those entities that are highly visible to a user and involve the details of how the customer should perceive the system should include a functional model, scenarios for use, detailed feature sets and the interaction language.*
+
 ### 5.9 Structure Viewpoint
 #### 5.9.1 Design Concerns
 #### 5.9.2 Design Elements
