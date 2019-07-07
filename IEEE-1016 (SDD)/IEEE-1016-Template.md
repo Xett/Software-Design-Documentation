@@ -327,6 +327,14 @@ The context viewpoints of *product name* show the functions provided by a design
 *Compositional structure of coarse-grained components and reuse of fine-grained components*
 
 #### 5.9.2 Design Elements
+*Design entities: port, connector, interface, part, and class.*
+
+*Design relationships: connected, part of, enclosed, provided, and required.*
+
+*Design attributes: name, type, purpose, and definition.*
+
+*Design constraints: interface constraints, reusability constraints, and dependency constraints.*
+
 #### 5.9.3 Example Languages
 ### 5.10 Interaction Viewpoint
 #### 5.10.1 Design Concerns
