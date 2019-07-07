@@ -155,6 +155,12 @@ All design attributes declared by a design viewpoint shall be specified.
 *Identification of designer. The author attribute shall identify the designer of the element.*
 
 #### 4.6.3 Design Relationships
+*A design relationship names an association or correspondence among two or more design entities. It provides a statement of fact about those design entities.*
+
+*Each design relationship in an SDD shall have a name (4.6.2.1) and a type (4.6.2.2). A design relationship shall identify the design entities participating in the relationship.*
+
+*There are no design relationships defined in this standard. Most design techniques use design relationships extensively. Normally these design relationships will be defined as part of a design viewpoint. For example, structured design methods are built around design relationships including input (datum I is an input to process A), output (datum O is an output of process A) and decompose (process A decompose into processes A1, A2, and A3) relationships. Object-oriented design methods use design relationships including encapsulation, generalisation, specialisation, composition, aggregation, realisation, and instantiation.*
+
 #### 4.6.4 Design Constraints
 ### 4.7 Design Overlays
 Design overlay usually used to add information to the existing views. This concept will be explained clearly when necessary in the design viewpoints section which is 5.
