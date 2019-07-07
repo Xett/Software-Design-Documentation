@@ -263,6 +263,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *UML component diagrams and UML package diagrams showing dependencies among subsystems (OMG [B28]).*
 
 ### 5.6 Information Viewpoint
+*The Information viewpoint is applicable when there is a substantial persistent data content expected with the design subject.*
+
 #### 5.6.1 Design Concerns
 #### 5.6.2 Design Elements
 ##### 5.6.2.1 Data Attribute
