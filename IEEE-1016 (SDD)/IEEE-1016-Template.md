@@ -366,6 +366,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Design constraints: guard conditions, concurrency, synchronisation, state invariant, transition constraint, and protocol.*
 
 #### 5.11.3 Example Languages
+*UML state machine diagram (OMG [B28]), Harel statechart, state transition table (matrix), automata, Petri net.*
+
 ### 5.12 Algorithm Viewpoint
 #### 5.12.1 Design Concerns
 #### 5.12.2 Design Elements
