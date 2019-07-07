@@ -250,6 +250,12 @@ The context viewpoints of *product name* show the functions provided by a design
 *A Dependency view provides an overall picture of the design subject in order to assess the impact of requirements or design changes. It can help maintainers to isolate entities causing system failures or resource bottlenecks. It can aid in producing the system integration plan by identifying the entities that are needed by other entities and that must be developed first. This description can also be used by integration testing to aid in the production of integration test cases.*
 
 #### 5.5.2 Design Elements
+*Design entities: subsystem, component, and module.*
+
+*Design relationships: uses, provides and requires*
+
+*Design attribute: name (4.6.2.1), type (4.6.2.2), purpose (4.6.2.3), dependencies (5.5.2.1), and resources. These attributes should be provided for all design entities.*
+
 ##### 5.5.2.1 Dependencies Attribute
 #### 5.5.3 Example Languages
 ### 5.6 Information Viewpoint
