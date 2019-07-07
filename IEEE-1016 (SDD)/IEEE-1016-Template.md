@@ -226,6 +226,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *UML component diagrams (see OMG [B28]) cover this viewpoint. The simplest graphical technique used to describe functional system decomposition is a hierarchical decomposition diagram; such diagram can be used together with natural language descriptions of purpose and function for each entity, such as is provided by IDEF0 (IEEE Std 1320.1-1998 [B18]), the Structure Chart (Yourdon and Constantine [B38]), and the HIPO Diagram. Run-time composition can also use structured diagrams (Page-Jones [B29]).*
 
 ### 5.4 Logical Viewpoint
+*The purpose of the Logical viewpoint is to elaborate existing and designed types and their implementations as classes and interfaces with their structural static relationships. This viewpoint also uses examples of instances of types in outlining design ideas.*
+
 #### 5.4.1 Design Concerns
 #### 5.4.2 Design Elements
 #### 5.4.3 Example Languages
