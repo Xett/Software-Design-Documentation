@@ -217,6 +217,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Design attributes: For each design entity, the viewpoint provides a reference to a detailed description via the identification attribute. The attribute descriptions for identification, type, purpose, function, and definition attribute should be utilised.*
 
 ##### 5.3.2.1 Function Attribute
+*A statement of what the entity does. The function attribute states the transformation applied by the entity to its inputs to produce the output. In the case of a data entity, this attribute states the type of information stored or transmitted by the entity.*
+
 ##### 5.3.2.2 Subordinates Attribute
 #### 5.3.3 Example Languages
 ### 5.4 Logical Viewpoint
