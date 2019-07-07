@@ -299,6 +299,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Design constraints: collaboration constraints.*
 
 #### 5.7.3 Example Languages
+*UML composite structure diagram and a combination of the UML class diagram and the UML package diagram (OMG [B28]).*
+
 ### 5.8 Interface Viewpoint
 #### 5.8.1 Design Concerns
 #### 5.8.2 Design Elements
