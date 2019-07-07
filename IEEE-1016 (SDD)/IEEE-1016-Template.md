@@ -244,6 +244,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *UML class diagrams and UML object diagrams (showing objects as instances of their respective classes)(OMG [B28]). Lattices of types and references to implemented types are commonly used as supplementary information.*
 
 ### 5.5 Dependency Viewpoint
+*The Dependency viewpoint specifies the relationships of interconnection and access among entities. These relationships include shared information, order of execution, or parameterisation of interfaces.*
+
 #### 5.5.1 Design Concerns
 #### 5.5.2 Design Elements
 ##### 5.5.2.1 Dependencies Attribute
