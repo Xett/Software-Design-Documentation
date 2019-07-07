@@ -324,6 +324,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *The Structure viewpoint is used to document the internal constituents and organisation of the design subject in terms of like elements (recursively).*
 
 #### 5.9.1 Design Concerns
+*Compositional structure of coarse-grained components and reuse of fine-grained components*
+
 #### 5.9.2 Design Elements
 #### 5.9.3 Example Languages
 ### 5.10 Interaction Viewpoint
