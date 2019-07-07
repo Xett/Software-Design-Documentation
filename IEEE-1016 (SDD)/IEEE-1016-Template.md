@@ -276,6 +276,10 @@ The context viewpoints of *product name* show the functions provided by a design
 *Design attributes: persistence and quality properties.*
 
 ##### 5.6.2.1 Data Attribute
+*A description of data elements internal to the entity. The data attribute describes the method of representation, initial values, use, semantics, format, and acceptable values of internal data. The description of data may be in the form of a data dictionary that describes the content, structure, and use of all data elements. Data information should describe everything pertaining to the use of data or internal data structures by this entity. It should include data specifications such as formats, number of elements, and initial values. It should also include the structures to be used for representing data such as file structures arrays, stacks, queues, and memory partitions.*
+
+*The meaning and use of data elements should be specified. This description includes such things as static versus dynamic, whether it is to be shared by transactions, used as a control parameter, or used as a value, loop iteration count, pointer, or link field. In addition, data information should include a description of data validation needed for the process.*
+
 #### 5.6.3 Example Languages
 ### 5.7 Patterns use Viewpoint
 #### 5.7.1 Design Concerns
