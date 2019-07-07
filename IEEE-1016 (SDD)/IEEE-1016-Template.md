@@ -241,6 +241,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Design constraints: value constraints, relationships exclusivity constraints navigability, generalisation sets, multiplicity, derivation, changeability, initial value qualifier, ordering, static, pre-condition, post-condition, and generalisation set constraints.*
 
 #### 5.4.3 Example Languages
+*UML class diagrams and UML object diagrams (showing objects as instances of their respective classes)(OMG [B28]). Lattices of types and references to implemented types are commonly used as supplementary information.*
+
 ### 5.5 Dependency Viewpoint
 #### 5.5.1 Design Concerns
 #### 5.5.2 Design Elements
