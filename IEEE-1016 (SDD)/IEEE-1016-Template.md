@@ -257,6 +257,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Design attribute: name (4.6.2.1), type (4.6.2.2), purpose (4.6.2.3), dependencies (5.5.2.1), and resources. These attributes should be provided for all design entities.*
 
 ##### 5.5.2.1 Dependencies Attribute
+*A description of the relationships of this entity with other entities. The dependencies attribute identifies the uses or requires the presence of relationship of an entity. This attribute is used to describe the nature of each interaction including such characteristics as timing and conditions for interaction. The interactions involve the initiation, order of execution, data sharing, creation, duplicating, usage, storage, or destruction of entities.*
+
 #### 5.5.3 Example Languages
 ### 5.6 Information Viewpoint
 #### 5.6.1 Design Concerns
