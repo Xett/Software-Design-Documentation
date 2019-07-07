@@ -345,6 +345,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *For designers. This includes evaluating allocation of responsibilities in collaborations, especially when adapting and applying design patterns; discovery or description of interactions in terms of messages among affected objects in fulfilling required actions; and state transition logic and concurrency for reactive, interactive, distributed, real-time, and similar systems.*
 
 #### 5.10.2 Design Elements
+*Classes, methods, states, events, signals, hierarchy, concurrency, timing, and synchronisation.*
+
 #### 5.10.3 Examples
 ### 5.11 State Dynamics Viewpoints
 #### 5.11.1 Design Concerns
