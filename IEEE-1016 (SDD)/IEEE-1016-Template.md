@@ -354,6 +354,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Reactive systems and systems whose internal behaviour is of interest use this viewpoint.*
 
 #### 5.11.1 Design Concerns
+*System dynamics including modes, states, transitions, and reactions to events.*
+
 #### 5.11.2 Design Elements
 #### 5.11.3 Example Languages
 ### 5.12 Algorithm Viewpoint
