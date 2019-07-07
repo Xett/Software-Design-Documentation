@@ -201,6 +201,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Design constraints: qualities of service; form and medium of interaction (provided to and received from) with environment.*
 
 #### 5.2.3 Example Languages
+*Any black-box type diagrams can be used to realise the Context viewpoint. Appropriate languages include Structured Analyys [e.g., IDEF0 (IEEE Std 1320.1-1998 [B18]), Structured Analysis and Design Technique (SADT)(Ross [B32]) or those of the Dearco of Gane-Sarson variety], the Cleanroom's black box diagrams, and UML use cases (OMG [B28]).*
+
 ### 5.3 Composition Viewpoint
 #### 5.3.1 Design Concerns
 #### 5.3.2 Design Elements
