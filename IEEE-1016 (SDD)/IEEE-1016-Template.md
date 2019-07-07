@@ -372,6 +372,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *The detailed design description of operations (such as methods and functions), the internal details and logic of each design entity.*
 
 #### 5.12.1 Design Concerns
+*The Algorithm viewpoint provides details needed by programmers, analysts of algorithms in regard to time-space performance and processing logic prior to implementation, and to aid in producing unit test plans.*
+
 #### 5.12.2 Design Elements
 #### 5.12.3 Processing Attribute
 #### 5.12.4 Examples
