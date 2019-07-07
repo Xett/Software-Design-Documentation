@@ -284,6 +284,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *IDEFIX (IEEE Std 1320.2-1998 [B19]), UML class diagrams (OMG [B28]).*
 
 ### 5.7 Patterns use Viewpoint
+*The viewpoint addresses design ideas (emergent concepts) as collaboration patterns involving abstracted roles and connectors.*
+
 #### 5.7.1 Design Concerns
 #### 5.7.2 Design Elements
 #### 5.7.3 Example Languages
