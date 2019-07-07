@@ -194,6 +194,12 @@ The context viewpoints of *product name* show the functions provided by a design
 *When the system is portrayed as a black box, with internal decisions hidden, the Context view is often a starting point of design, showing what is to be designed functionally as the only available information about the design subject: a name and an associated set of externally identifiable services. Requirements analysis identifies these services with the specification of quality of service attributes, henceforth invoking many non-functional requirements. Frequently incomplete, a Context view is begun in requirements analysis. Work to complete this view continues during design.*
 
 #### 5.2.2 Design Elements
+*Design entities: actors--external active elements interacting with the design subject, including users, other stakeholders and external systems, or other items; services--also called use cases; and directed information flows between the design subject, treated as a black box, and its actors associating actors with services. Flows capture the expected information content exchanged.*
+
+*Design relationships: receive output and provide input (between actors and the design subject).*
+
+*Design constraints: qualities of service; form and medium of interaction (provided to and received from) with environment.*
+
 #### 5.2.3 Example Languages
 ### 5.3 Composition Viewpoint
 #### 5.3.1 Design Concerns
