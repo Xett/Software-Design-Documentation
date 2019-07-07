@@ -141,6 +141,8 @@ All design attributes declared by a design viewpoint shall be specified.
 *Design attributes can be thought of as questions about design elements. The answers to those questions are the values of the attributes. All the questions can be answered, but the content of the answer will depend upon the nature of the entity. The collection of answers provides a complete description of an entity. Attribute descriptions should include references and design considerations such as tradeoffs and assumptions when appropriate. In some cases, attribute descriptions may have the value none.*
 
 ##### 4.6.2.1 Name Attributes
+*The name of the element. Each design element shall have an unambiguous reference name. The names for the element may be selected to characterise their nature. This will simplify referencing and tracking in addition to providing identification*
+
 ##### 4.6.2.2 Type Attributes
 ##### 4.6.2.3 Purpose Attribute
 ##### 4.6.2.4 Author Attribute
