@@ -207,6 +207,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *The Composition viewpoint describes the way the design subject is (recursively) structured into constituent parts and establishes the roles of those parts.*
 
 #### 5.3.1 Design Concerns
+*Software developers and maintainers use this viewpoint to identify the major design constituents of the design subject, to localise and allocate functionality, responsibilities, or other design roles to these constituents. In maintenance, it can be used to conduct impact analysis and localise the efforts of making changes. Reuse, on the level of existing subsystems and large-grained components, can be addressed as well. The information in a Composition view can be used by acquisition management and in project management for specification and assignment of work packages, and for planning, monitoring and control of a software project. This information, together with other project information, can be sued in estimating cost staffing, and schedule for the development effort. Configuration management may use the information to establish the organisation, tracking, and change management of emerging work products (see IEEE Std 12207-2008 [B21]).*
+
 #### 5.3.2 Design Elements
 ##### 5.3.2.1 Function Attribute
 ##### 5.3.2.2 Subordinates Attribute
