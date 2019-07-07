@@ -220,6 +220,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *A statement of what the entity does. The function attribute states the transformation applied by the entity to its inputs to produce the output. In the case of a data entity, this attribute states the type of information stored or transmitted by the entity.*
 
 ##### 5.3.2.2 Subordinates Attribute
+*The identification of all entities composing this entity. The subordinates attribute identifies the "composed of" relationship for an entity. This information is used to trace requirements to design entities and to identify parent/child structural relationships through a design subject.*
+
 #### 5.3.3 Example Languages
 ### 5.4 Logical Viewpoint
 #### 5.4.1 Design Concerns
