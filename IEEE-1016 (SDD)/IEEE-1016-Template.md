@@ -210,6 +210,12 @@ The context viewpoints of *product name* show the functions provided by a design
 *Software developers and maintainers use this viewpoint to identify the major design constituents of the design subject, to localise and allocate functionality, responsibilities, or other design roles to these constituents. In maintenance, it can be used to conduct impact analysis and localise the efforts of making changes. Reuse, on the level of existing subsystems and large-grained components, can be addressed as well. The information in a Composition view can be used by acquisition management and in project management for specification and assignment of work packages, and for planning, monitoring and control of a software project. This information, together with other project information, can be sued in estimating cost staffing, and schedule for the development effort. Configuration management may use the information to establish the organisation, tracking, and change management of emerging work products (see IEEE Std 12207-2008 [B21]).*
 
 #### 5.3.2 Design Elements
+*Design entities: types of constituents of a system: subsystems, components, modules; ports and (provided and required) interfaces; also libraries, frameworks, software repositories, catalogs, and templates.*
+
+*Design relationships: composition, use, and generalisation. The Composition viewpoint supports the recording of the part-whole relationships between design entities using realisation, dependency, aggregation, composition, and generalisation relationships. Additional design relationships are required and provided (interfaces), and the attachment of ports to components.*
+
+*Design attributes: For each design entity, the viewpoint provides a reference to a detailed description via the identification attribute. The attribute descriptions for identification, type, purpose, function, and definition attribute should be utilised.*
+
 ##### 5.3.2.1 Function Attribute
 ##### 5.3.2.2 Subordinates Attribute
 #### 5.3.3 Example Languages
