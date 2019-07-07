@@ -144,6 +144,10 @@ All design attributes declared by a design viewpoint shall be specified.
 *The name of the element. Each design element shall have an unambiguous reference name. The names for the element may be selected to characterise their nature. This will simplify referencing and tracking in addition to providing identification*
 
 ##### 4.6.2.2 Type Attributes
+*A description of the kind of element. The type attribute shall describe the nature of the element. It may simply name the kind of element, such as subsystem, component, framework, library, class, subprogram, module, program unit, function, procedure, process, object, persistent object, class or data store. Alternatively, design elements may be grouped into major classes to assist in locating an element dealing with a particular type of information.*
+
+*Within an SDD, the chosen element types shall be applied consistently.*
+
 ##### 4.6.2.3 Purpose Attribute
 ##### 4.6.2.4 Author Attribute
 #### 4.6.3 Design Relationships
