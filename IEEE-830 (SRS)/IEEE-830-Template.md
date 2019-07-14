@@ -1,5 +1,7 @@
 # *Template Title*
 ## 1. Introduction
+*The introduction of the SRS shoul provid an overview of the entire SRS.*
+
 ### 1.1 Purpose
 ### 1.2 Scope
 ### 1.3 Definitions, acronyms, and abbreviations
