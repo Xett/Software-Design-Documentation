@@ -408,3 +408,4 @@ The context viewpoints of *product name* show the functions provided by a design
 *The resources attribute should describe usage characteristics such as the processing time at which resources are to be acquired and sizing to include quantity, and physical sizes of buffer usage. It should also include the identification of potential race and deadlock conditions as well as resource management facilities.*
 
 #### 5.13.3 Examples
+*Woodside [B37], UML class diagram, UML Object Constraint Langauge (OMG [B28]).*
