@@ -389,6 +389,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *The purpose of the Resource viewpoint is to model the characteristics and utilisation of resources in a design subject.*
 
 #### 5.13.1 Design Concerns
+*Key concerns include resource utilisation, resource contention, availability, and performance.*
+
 #### 5.13.2 Design Elements
 ##### 5.13.2.1 Resources Attribute
 #### 5.13.3 Examples
