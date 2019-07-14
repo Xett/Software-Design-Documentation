@@ -392,5 +392,13 @@ The context viewpoints of *product name* show the functions provided by a design
 *Key concerns include resource utilisation, resource contention, availability, and performance.*
 
 #### 5.13.2 Design Elements
+*Design entities: resources, usage policies.*
+
+*Design relationship: allocation and uses.*
+
+*Design attributes: identification (4.6.2.1), resource (5.13.2.1), performance measures (such as throughput, rate of consumption).*
+
+*Design constraints: priorities, locks, resource constraints.*
+
 ##### 5.13.2.1 Resources Attribute
 #### 5.13.3 Examples
