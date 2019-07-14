@@ -386,6 +386,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *Descision tables and flowcharts; program design languages, "pseudo-code", and (actual) programming languages may also be used.*
 
 ### 5.13 Resource Viewpoint
+*The purpose of the Resource viewpoint is to model the characteristics and utilisation of resources in a design subject.*
+
 #### 5.13.1 Design Concerns
 #### 5.13.2 Design Elements
 ##### 5.13.2.1 Resources Attribute
