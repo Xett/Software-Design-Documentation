@@ -378,6 +378,10 @@ The context viewpoints of *product name* show the functions provided by a design
 *These should include the attribute descriptions for identification, processing (5.12.1), and data for all design entities.*
 
 #### 5.12.3 Processing Attribute
+*A description of the rules used by the entity to achieve its function. The processing attribute describes the algorithm used by the entity to perform a specific task and its contingencies. This description is a refinement of the function attribute and is the most detailed level of refinement for the entity.*
+
+*This description should include timing, sequencing of events or processes, prerequisites for process initiation, priority of events, processing level, actual process steps, path conditions, and loop back or loop termination criteria. The handling of contingencies should describe the action to be taken in the case of overflow conditions or in the case of a validation check failure.*
+
 #### 5.12.4 Examples
 ### 5.13 Resource Viewpoint
 #### 5.13.1 Design Concerns
