@@ -383,6 +383,8 @@ The context viewpoints of *product name* show the functions provided by a design
 *This description should include timing, sequencing of events or processes, prerequisites for process initiation, priority of events, processing level, actual process steps, path conditions, and loop back or loop termination criteria. The handling of contingencies should describe the action to be taken in the case of overflow conditions or in the case of a validation check failure.*
 
 #### 5.12.4 Examples
+*Descision tables and flowcharts; program design languages, "pseudo-code", and (actual) programming languages may also be used.*
+
 ### 5.13 Resource Viewpoint
 #### 5.13.1 Design Concerns
 #### 5.13.2 Design Elements
