@@ -3,6 +3,10 @@
 *The introduction of the SRS shoul provid an overview of the entire SRS.*
 
 ### 1.1 Purpose
+*This subsection should:*
+
+*a) Delineate the purpose of the SRS;*
+*b) Specify the intended audience for the SRS*
 ### 1.2 Scope
 ### 1.3 Definitions, acronyms, and abbreviations
 ### 1.4 References
