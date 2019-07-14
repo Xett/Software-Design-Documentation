@@ -401,4 +401,10 @@ The context viewpoints of *product name* show the functions provided by a design
 *Design constraints: priorities, locks, resource constraints.*
 
 ##### 5.13.2.1 Resources Attribute
+*A description of the elements used by the entity that are external to the design. The resources attribute identifies and describes all of the resources external to the design that are needed by this entity to perform its function. The interaction rules and methods for using the resource are to be specified by this attribute.*
+
+*This attribute provides information about items such as physical devices (printers, disc-partitions, memory banks), software services (math libraries, operating system services), and processing resources (CPU cycles, memory allocation, buffers).*
+
+*The resources attribute should describe usage characteristics such as the processing time at which resources are to be acquired and sizing to include quantity, and physical sizes of buffer usage. It should also include the identification of potential race and deadlock conditions as well as resource management facilities.*
+
 #### 5.13.3 Examples
